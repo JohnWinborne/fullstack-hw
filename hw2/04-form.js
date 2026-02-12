@@ -26,7 +26,7 @@ const server = http.createServer((req, res) => {
             placeholder="Username"
           />
         </div>
-        <div>
+        <div> 
           <label for="email">Email: </label>
           <input
             type="email"
